@@ -10,3 +10,10 @@
   5. Print the country which uses US Dollars as currency.
 
 ## Question answer =>  arrayFunctionRestCountries.js
+
+## rest country data link <span><a href="https://restcountries.com/v3.1/all" target="_blank">https://restcountries.com/v3.1/all</a></span>
+
+## you can see the output console in the netlify link given below
+
+
+# NETLIFY LINK => <span><a href="https://celadon-marzipan-92b6c0.netlify.app/" target="_blank">click me</a></span>
